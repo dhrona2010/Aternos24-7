@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "RD80085.aternos.me",
-    "port": 54766,
+    "port": "54766",
     "version": "",
     "try-creative": false
   },
